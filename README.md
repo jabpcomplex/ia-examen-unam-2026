@@ -1,4 +1,4 @@
-#🤖 Dashboard UNAM 2026 - Análisis de Resultados 🤖
+# 🤖 Dashboard UNAM 2026 - Análisis de Resultados 🤖
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.html)
