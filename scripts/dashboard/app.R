@@ -14,7 +14,7 @@ carreras_disp <- c("CIENCIAS DE LA COMPUTACION", "ARQUITECTURA", "FISICA","MATEM
 
 # Función para cargar datos de una carrera específica
 cargar_datos_carrera <- function(carrera) {
-  ruta_carrera <- paste0("./data/raw", carrera)
+  ruta_carrera <- paste0("./data/raw/", carrera)
   
   if (!dir.exists(ruta_carrera)) return(NULL)
   
@@ -319,3 +319,4 @@ server <- function(input, output, session) {
 
 #### app ####
 shinyApp(ui, server)   
+
