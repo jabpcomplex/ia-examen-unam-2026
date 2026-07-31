@@ -1,0 +1,20 @@
+# RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Variables de entorno
+.Renviron
+.env
+
+# Logs y temporales
+*.log
+tmp/
+
+# Sistema Operativo
+.DS_Store       # macOS
+Thumbs.db       # Windows
+*~              # Archivos de respaldo comunes en Linux (gedit, nano, etc.)
+.swp            # Archivos de intercambio de Vim
+.swo            # Archivos de intercambio de Vim
