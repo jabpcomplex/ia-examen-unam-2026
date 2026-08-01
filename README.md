@@ -64,9 +64,25 @@ install.packages(c("shiny", "shinydashboard", "plotly", "tidyverse", "DT", "scal
 
 ## 📜 Licencia
 
-Este proyecto está bajo licencia GNU General Public License v3.0
+Este proyecto está bajo licencia GNU General Public License v3.0 
 
-📌 Leer licencia completa
+<div align="left" style="background-color: white; padding: 10px; border-radius: 10px; display: flex; align-items: center;">
+  <a 
+    href="https://www.gnu.org/licenses/gpl-3.0.html" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    title="Licencia GPLv3"
+  >
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" 
+      alt="GPLv3 License" 
+      height="80"
+      style="transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.7'" 
+      onmouseout="this.style.opacity='1'"
+    >
+  </a>
+</div>
 
 ## 👤 Autor
 
