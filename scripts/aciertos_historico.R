@@ -1,10 +1,12 @@
 library(tidyverse)
-
+rm(list= ls())
 # CIENCIAS DE LA COMPUTACION
 # ARQUITECTURA
 # FISICA
 # MATEMATICAS
-carrera <- "ARQUITECTURA"
+# URBANISMO
+
+carrera <- "CIENCIAS DE LA COMPUTACION"
 
 # 1. Definir ruta y obtener lista de archivos
 archivos_csv <- list.files(path = paste0("./data/raw/",carrera), pattern = "\\.csv$", full.names = TRUE)
@@ -47,4 +49,5 @@ ggplot(df_combined, aes(x = Aciertos)) +
        x = "Número de Aciertos", 
        y = "Densidad de Probabilidad") +
   theme_minimal()   
+
 
