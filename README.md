@@ -16,6 +16,16 @@
 Aplicación Shiny para visualizar aciertos y acreditación en carreras de la UNAM.
 Este repositorio nace como respuesta a la necesidad de transparencia en el examen de admisión 2026 para el sistema escolarizado del nivel licenciatura dado que presenta un comportamiento atípico en muchas carreras, en contraste con el de años recientes de 2021 a 2025. Las pestañas *Comparativa Histórica* y *Detalles por año* del dashboard muestran visualmente este hecho, a saber, un desplazamiento anómalo en la distribución de frecuencias del número de aciertos que obtuvo un estudiante en el examen de 2026.
 
+## 📜 Licenciaturas 🎓
+
+1. ACTUARIA
+2. ARQUITECTURA
+3. ARQUITECTURA DE PAISAJE
+4. CIENCIAS DE LA COMPUTACION
+5. FISICA
+6. MATEMATICAS
+7. URBANISMO
+
 
 ## 🚀 Características Principales
 
