@@ -10,8 +10,7 @@ library(scales)
 # --- 1. CONFIGURACIÓN Y CARGA DE DATOS ---
 
 # Definir las carreras disponibles según tu estructura de carpetas
-carreras_disp <- c("CIENCIAS DE LA COMPUTACION", "ARQUITECTURA", "FISICA","MATEMATICAS","URBANISMO")
-
+carreras_disp <- c("ACTUARIA","ARQUITECTURA","ARQUITECTURA DE PAISAJE","CIENCIAS DE LA COMPUTACION","FISICA","MATEMATICAS","URBANISMO")
 # Función para cargar datos de una carrera específica
 cargar_datos_carrera <- function(carrera) {
   ruta_carrera <- paste0("./data/raw/", carrera)
