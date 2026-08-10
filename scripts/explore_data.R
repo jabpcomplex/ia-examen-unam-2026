@@ -3,11 +3,13 @@ library(readxl)
 library(dplyr)#library(ggplot2)
 library(tidyverse)
 
-# CIENCIAS DE LA COMPUTACION
-# ARQUITECTURA
-# FISICA
-# MATEMATICAS
-# URBANISMO
+# 1. ACTUARIA
+# 2. ARQUITECTURA
+# 3. ARQUITECTURA DE PAISAJE
+# 4. CIENCIAS DE LA COMPUTACION
+# 5. FISICA
+# 6. MATEMATICAS
+# 7. URBANISMO
 
 rm(list= ls())
 carrera <- "ARQUITECTURA"

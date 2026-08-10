@@ -1,10 +1,6 @@
 library(tidyverse)
 rm(list= ls())
-# CIENCIAS DE LA COMPUTACION
-# ARQUITECTURA
-# FISICA
-# MATEMATICAS
-# URBANISMO
+
 
 carrera <- "CIENCIAS DE LA COMPUTACION"
 
