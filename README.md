@@ -24,7 +24,7 @@ Este repositorio nace como respuesta a la necesidad de transparencia en el exame
 4. CIENCIAS DE LA COMPUTACION
 5. FISICA
 6. MATEMATICAS
-7. MATEMATICA APLICADAS
+7. MATEMATICAS APLICADAS
 8. URBANISMO
 
 
