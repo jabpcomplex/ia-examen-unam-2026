@@ -24,7 +24,8 @@ Este repositorio nace como respuesta a la necesidad de transparencia en el exame
 4. CIENCIAS DE LA COMPUTACION
 5. FISICA
 6. MATEMATICAS
-7. URBANISMO
+7. MATEMATICA APLICADAS
+8. URBANISMO
 
 
 ## 🚀 Características Principales

@@ -9,7 +9,8 @@ library(tidyverse)
 # 4. CIENCIAS DE LA COMPUTACION
 # 5. FISICA
 # 6. MATEMATICAS
-# 7. URBANISMO
+# 7. MATEMATICAS APLICADAS
+# 8. URBANISMO
 
 rm(list= ls())
 carrera <- "ARQUITECTURA"
